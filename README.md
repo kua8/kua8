@@ -1,58 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B5ED2&height=200&section=header&text=Evan%20Solanoy&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=6B5ED2&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full-Stack+Developer;Building+Digital+Experiences" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6B5ED2&height=150&text=Evan%20Solanoy&fontSize=60&fontColor=6B5ED2&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=75&descAlign=50" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,python,nextjs&theme=dark" />
-</div>
-
-<br>
-
-## Featured Projects
-
-<div align="center">
-  <a href="https://evsg.site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=portfolio&theme=midnight-purple" />
-  </a>
-  <!-- Add more project cards as needed -->
-</div>
-
-<br>
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=your-username&cc=000000&tc=6B5ED2&ic=fff&bc=0000" width="600">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=midnight-purple&hide_border=true&background=000000" width="600" />
-</div>
-
-<br>
-
-## Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-6B5ED2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://evsg.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=6B5ED2" alt="Portfolio" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-6B5ED2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=6B5ED2" alt="Email" />
   </a>
-  <a href="https://evsg.site">
-    <img src="https://img.shields.io/badge/Portfolio-6B5ED2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6B5ED2" alt="LinkedIn" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B5ED2&height=100&section=footer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?kua8&cc=000000&tc=6B5ED2&ic=fff&bc=0000" width="500">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,python&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/your-username?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?kua8&background=000000&ring=6B5ED2&fire=6B5ED2&currStreakNum=ffffff&currStreakLabel=6B5ED2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="500" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 </div>
