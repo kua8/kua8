@@ -1,49 +1,58 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+[Your+Name];Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B5ED2&height=200&section=header&text=Evan%20Solanoy&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=6B5ED2&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full-Stack+Developer;Building+Digital+Experiences" />
 </div>
 
-## 🚀 About Me
-- 🔭 I'm currently working on [Project Name]
-- 🌱 I'm currently learning [Technology]
-- 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
+<br>
 
-## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <!-- Add more technology badges as needed -->
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,python,nextjs&theme=dark" />
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue" alt="GitHub Streak" />
-</div>
+<br>
 
-## 🏆 Projects
+## Featured Projects
+
 <div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=github_dark" />
+  <a href="https://evsg.site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=portfolio&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=github_dark" />
+  <!-- Add more project cards as needed -->
+</div>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=your-username&cc=000000&tc=6B5ED2&ic=fff&bc=0000" width="600">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=midnight-purple&hide_border=true&background=000000" width="600" />
+</div>
+
+<br>
+
+## Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-6B5ED2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-6B5ED2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://evsg.site">
+    <img src="https://img.shields.io/badge/Portfolio-6B5ED2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-## 🤝 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <!-- Add more social media badges as needed -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B5ED2&height=100&section=footer" width="100%" />
 </div>
