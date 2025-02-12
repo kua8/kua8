@@ -1,53 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6B5ED2&height=150&text=Evan%20Solanoy&fontSize=60&fontColor=6B5ED2&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=75&descAlign=50" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Evgeny;Full+Stack+Developer;Frontend+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br>
+## 👨‍💻 About Me
+
+I'm a 16-year-old self-taught Full Stack Developer with a passion for creating beautiful and functional web applications. While I enjoy both frontend and backend development, my heart lies in crafting exceptional user experiences through frontend development.
+
+🌐 [Check out my portfolio](https://evsg.site)
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://evsg.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=6B5ED2" alt="Portfolio" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=6B5ED2" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6B5ED2" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<br>
+## 🤝 Let's Connect
+
+- 📫 How to reach me: [Your Email or Preferred Contact Method]
+- 🌐 Portfolio: [evsg.site](https://evsg.site)
+- 💼 LinkedIn: [Your LinkedIn Profile]
+
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?kua8&cc=000000&tc=6B5ED2&ic=fff&bc=0000" width="500">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,python&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/your-username?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?kua8&background=000000&ring=6B5ED2&fire=6B5ED2&currStreakNum=ffffff&currStreakLabel=6B5ED2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="500" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+  <i>⚡ Fun fact: I started coding at 16 and haven't stopped learning since!</i>
 </div>
