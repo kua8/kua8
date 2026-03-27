@@ -18,11 +18,4 @@
     <a href="https://github.com/kua8">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="35" height="35"/>
     </a>
-    <!-- Add more social links as needed -->
 </div>
-
-### Want to work together?
-> [!IMPORTANT]  
-> 💼 Open for comissions and opportunities!
-> 
-> 📧 Contact me via portfolio.
