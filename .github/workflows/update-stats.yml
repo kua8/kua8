@@ -23,6 +23,7 @@ jobs:
         run: |
           python build_stats_card.py stats-card.svg
           python build_contributions.py contributions.svg
+          python build_streak_card.py streak-card.svg
           mkdir "$RUNNER_TEMP/gif"
           cd "$RUNNER_TEMP/gif"
           python "$GITHUB_WORKSPACE/build_gif.py" "$GITHUB_WORKSPACE/output.gif"
@@ -30,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git diff --quiet -- output.gif stats-card.svg contributions.svg || sed -i -E "s/(output\.gif|stats-card\.svg|contributions\.svg)\?v=[0-9]+/\1?v=$(date +%s)/g" README.md
-          git add output.gif stats-card.svg contributions.svg README.md
+          git diff --quiet -- output.gif stats-card.svg contributions.svg streak-card.svg || sed -i -E "s/(output\.gif|stats-card\.svg|contributions\.svg|streak-card\.svg)\?v=[0-9]+/\1?v=$(date +%s)/g" README.md
+          git add output.gif stats-card.svg contributions.svg streak-card.svg README.md
           git diff --cached --quiet || { git commit -m "chore: update stats"; git push; }
