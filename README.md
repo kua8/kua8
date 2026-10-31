@@ -1,21 +1,27 @@
+<div align="center">
 
+<a href="https://github.com/kua8"><img src="output.gif" width="100%" alt="Animated terminal that boots, logs in, and runs neofetch: System Engineer with front-end roots, 17, Vienna, homelab, Nectar, and 90k Nexus Mods downloads" /></a>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=61DAFB&width=435&lines=Hello%2C+I'm+Kua8;Full+Stack+Developer;Frontend+Enthusiast" alt="Typing SVG"/>
-</a>
+<img src="https://shieldcn.dev/badge/System%20Engineer.svg?logo=lu:Terminal&variant=secondary&theme=dark&size=xl&iconSize=22&logoColor=f9a826" alt="System Engineer" /> <img src="https://shieldcn.dev/badge/Frontend%20Developer.svg?logo=lu:LayoutDashboard&variant=secondary&theme=dark&size=xl&iconSize=22&logoColor=f9a826" alt="Frontend Developer" /> <a href="https://www.nexusmods.com/profile/kua8"><img src="https://shieldcn.dev/badge/90k%20Nexus%20Mods%20downloads.svg?logo=lu:Download&variant=default&color=F9A826&size=xl&iconSize=22&logoColor=0d1117" alt="90k Nexus Mods downloads" /></a>
 
-### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,express,mongodb,git,vscode,figma,framer)](https://skillicons.dev)
+Building <a href="https://github.com/kua8/Nectar">Nectar</a>, a notch and dock for Windows, in Rust and Tauri.
 
-### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=react,tailwind,ts)](https://skillicons.dev)
+</div>
 
-### Connect with me!
-<div>
-    <a href="https://discord.com/users/1002231598118346842">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="35" height="35"/>
-    </a>
-    <a href="https://github.com/kua8">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="35" height="35"/>
-    </a>
+---
+
+### <img src="https://cdn.simpleicons.org/grafana/F9A826" height="22" align="top" alt="" /> Telemetry
+
+<div align="center">
+
+<a href="https://github.com/kua8/Nectar/releases"><img src="nectar-card.svg" width="48%" alt="Nectar total downloads, stars, forks, and latest release" /></a>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=kua8&background=0D1117&border=30363D&stroke=F9A826&ring=F9A826&fire=F9A826&currStreakLabel=F9A826&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border_radius=8&cache_seconds=86400" width="48%" alt="GitHub contribution streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="HOMELAB.md"><img src="https://shieldcn.dev/badge/Homelab.svg?logo=ri:SiProxmox&variant=default&color=F9A826&size=xl&iconSize=22&logoColor=0d1117" alt="Homelab" /></a>
+
 </div>
