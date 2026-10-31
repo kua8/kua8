@@ -14,11 +14,11 @@ Building <a href="https://github.com/kua8/Nectar">Nectar</a>, a notch and dock f
 
 <div align="center">
 
-<a href="https://github.com/kua8?tab=repositories"><img src="stats-card.svg?v=1793461485" width="48%" alt="Total stars, downloads, and forks across all repositories" /></a>&nbsp;&nbsp;&nbsp;<img src="streak-card.svg?v=1793461485" width="48%" alt="Total contributions, current streak, and longest streak" />
+<a href="https://github.com/kua8"><img src="stats-card.svg?v=1793461485" width="48%" alt="Total stars, downloads, and forks across all repositories" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/kua8"><img src="streak-card.svg?v=1793461485" width="48%" alt="Total contributions, current streak, and longest streak" /></a>
 
 <br /><br />
 
-<img src="contributions.svg?v=1793461485" width="98%" alt="Contribution grid for the last year" />
+<a href="https://github.com/kua8"><img src="contributions.svg?v=1793461485" width="98%" alt="Contribution grid for the last year" /></a>
 
 </div>
 
