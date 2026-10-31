@@ -3,6 +3,7 @@ import os
 import random
 import subprocess
 import sys
+from datetime import date
 
 os.environ["GIFOS_GENERAL_COLOR_SCHEME"] = "gruvbox-dark"
 os.environ["GIFOS_GRUVBOX-DARK_DEFAULT_COLORS_BG"] = "#0d1117"
@@ -17,13 +18,15 @@ CYAN = "\x1b[96m"
 GREY = "\x1b[90m"
 RESET = "\x1b[0m"
 
+WHITE = "\x1b[37m"
+
 LOGO = [
-    "##  ##   #### ",
-    "## ##   ##  ##",
-    "####     #### ",
-    "####     #### ",
-    "## ##   ##  ##",
-    "##  ##   #### ",
+    f"{CYAN} |'''|    /''''''/",
+    f"{CYAN} |'''|  /''''''/",
+    f"{CYAN} |'''|/''''''/",
+    f"{CYAN} |'''|{WHITE}\\......\\",
+    f"{CYAN} |'''|{WHITE} \\.......\\",
+    f"{CYAN} |'''|{WHITE}  \\........\\",
 ]
 
 
@@ -42,7 +45,7 @@ def nectar_stats():
 def boot(t):
     t.toggle_show_cursor(False)
     t.gen_text(f"{AMBER}K8 Modular BIOS v17.0{RESET}", 1)
-    t.gen_text("Vienna Works, Austria", 2)
+    t.gen_text(f"Copyright (C) {date.today().year} K8 Systems", 2)
     t.gen_text("Press DEL to enter SETUP", t.num_rows)
     for kb in range(0, 65537, 16384):
         t.delete_row(4)
@@ -80,7 +83,7 @@ def fetch(t, stars, downloads):
     t.toggle_show_cursor(False)
 
     for i, line in enumerate(LOGO):
-        t.gen_text(f"{AMBER}{line}{RESET}", 5 + i, 3)
+        t.gen_text(f"{line}{RESET}", 5 + i, 3)
 
     rows = [
         ("Role", "System Engineer"),
@@ -88,8 +91,9 @@ def fetch(t, stars, downloads):
         ("Uptime", "17 years"),
         ("Location", "Vienna, Austria"),
         ("Homelab", "Proxmox VE, 20+ self-hosted services"),
-        ("Security", "OPNsense, CrowdSec, PBS backups"),
-        ("Languages", "TypeScript, Rust, C#, Lua"),
+        ("Backups", "Acronis"),
+        ("Languages", "Rust, TypeScript, C#, Luau, PowerShell"),
+        ("Web", "React, Next.js, Tailwind, Node.js"),
         ("Nectar", f"{stars} stars, {downloads} downloads"),
         ("Nexus Mods", "90k downloads"),
         ("Master of", "None"),
@@ -101,14 +105,14 @@ def fetch(t, stars, downloads):
 
 
 def projects(t):
-    t.gen_prompt(16, count=3)
+    t.gen_prompt(17, count=3)
     t.toggle_show_cursor(True)
-    t.gen_typing_text(f"{GREEN}ls{RESET} projects/", 16, contin=True)
+    t.gen_typing_text(f"{GREEN}ls{RESET} projects/", 17, contin=True)
     t.toggle_show_cursor(False)
-    t.gen_text(f"{CYAN}nectar/{RESET}      notch and dock for Windows, in Rust and Tauri", 17, count=3)
-    t.gen_text(f"{CYAN}homelab/{RESET}     20+ services on Proxmox, see HOMELAB.md", 18, count=3)
-    t.gen_text(f"{CYAN}nexus-mods/{RESET}  C# mods for Unity games", 19, count=3)
-    t.gen_prompt(21)
+    t.gen_text(f"{CYAN}nectar/{RESET}      notch and dock for Windows, in Rust and Tauri", 18, count=3)
+    t.gen_text(f"{CYAN}homelab/{RESET}     20+ services on Proxmox, see HOMELAB.md", 19, count=3)
+    t.gen_text(f"{CYAN}nexus-mods/{RESET}  C# mods for Unity games", 20, count=3)
+    t.gen_prompt(22)
     t.toggle_show_cursor(True)
     t.clone_frame(60)
 
@@ -117,7 +121,7 @@ def main():
     output = os.path.abspath(sys.argv[1])
     stars, downloads = nectar_stats()
     random.seed(17)
-    t = gifos.Terminal(750, 405, 15, 15)
+    t = gifos.Terminal(750, 427, 15, 15)
     t.set_fps(15)
     boot(t)
     login(t)
