@@ -22,6 +22,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           python build_nectar_card.py nectar-card.svg
+          python build_contributions.py contributions.svg
           mkdir "$RUNNER_TEMP/gif"
           cd "$RUNNER_TEMP/gif"
           python "$GITHUB_WORKSPACE/build_gif.py" "$GITHUB_WORKSPACE/output.gif"
@@ -29,5 +30,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add output.gif nectar-card.svg
+          git add output.gif nectar-card.svg contributions.svg
           git diff --cached --quiet || { git commit -m "chore: update stats"; git push; }

@@ -16,6 +16,10 @@ Building <a href="https://github.com/kua8/Nectar">Nectar</a>, a notch and dock f
 
 <a href="https://github.com/kua8/Nectar/releases"><img src="nectar-card.svg" width="48%" alt="Nectar total downloads, stars, forks, and latest release" /></a>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=kua8&background=0D1117&border=30363D&stroke=F9A826&ring=F9A826&fire=F9A826&currStreakLabel=F9A826&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border_radius=8&cache_seconds=86400" width="48%" alt="GitHub contribution streak" />
 
+<br /><br />
+
+<img src="contributions.svg" width="98%" alt="Contribution grid for the last year" />
+
 </div>
 
 <br />
